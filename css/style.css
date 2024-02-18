@@ -1,0 +1,13 @@
+.jumbotron img {
+    width: 150px;
+    border: 3PX solid #1F2544;
+}
+
+.jumbotron h1 {
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;    
+}
+
+.jumbotron {
+    color: #070F28;
+}
